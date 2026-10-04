@@ -1,0 +1,25 @@
+# Maven
+target/
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# HuffZip generated files
+output/*.huf
+output/*-restored.txt
+
+# Temporary files
+*.tmp

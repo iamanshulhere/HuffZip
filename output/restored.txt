@@ -1,0 +1,7 @@
+HuffZip is a lossless file compression utility.
+
+Huffman coding is a greedy algorithm that creates
+variable length binary codes based on character frequency.
+
+Characters that occur frequently receive shorter codes,
+while characters that occur less frequently receive longer codes.
